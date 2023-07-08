@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Anhkisu
-- 👀 I’m interested in Data Science, Database Management
-- 🌱 I’m currently learning Python, Django and SQL
-- 💞️ I’m looking to improve my skills and collaborate on Data Management projects of all domains
-- 📫 Reach me through email @ dungphamthang7@gmail.com
+👋 Hi, I’m @Anhkisu
+👀 I’m interested in Data Science, Database Management and Blockchain Technology
+🌱 I’m currently learning Python, Django and dive deeper into coding
+💞️ I’m looking to improve my skills and collaborate on Data Management projects of all domains
+  
 
 Since 2023
 <!---
